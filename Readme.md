@@ -69,17 +69,14 @@ Reconstructed Secret: 7
 ```
 
 📚 Concepts Used
-Shamir's Secret Sharing (Lagrange Interpolation over Finite Fields)
-
-Modular Arithmetic
-
-Base Conversion Logic
-
-JSON File Parsing (org.json)
+-Shamir's Secret Sharing (Lagrange Interpolation over Finite Fields)
+-Modular Arithmetic
+-Base Conversion Logic
+-JSON File Parsing (org.json)
 
 👨‍💻 Author
 Santhosh Thouda
-
+Portfolio : https://www.netlify.app
 GitHub: @santhosh-thouda
 
 📜 License
