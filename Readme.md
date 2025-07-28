@@ -52,7 +52,7 @@ base: Number base (e.g., 2 = binary, 10 = decimal, 16 = hexadecimal).
 
 value: Value of the share in that base.
 
-✅ How to Run
+##✅ How to Run
 Compile:
 ```bash
 javac -cp .;json-20230227.jar Main.java
@@ -62,22 +62,22 @@ Run:
 java -cp .;json-20230227.jar Main
 ⚠️ Ensure json-20230227.jar is in the same directory.
 ```
-🧪 Sample Output
+##🧪 Sample Output
 ```css
 Reading shares from input.json...
 Reconstructed Secret: 7
 ```
 
-📚 Concepts Used
+##📚 Concepts Used
 -Shamir's Secret Sharing (Lagrange Interpolation over Finite Fields)
 -Modular Arithmetic
 -Base Conversion Logic
 -JSON File Parsing (org.json)
 
-👨‍💻 Author
+##👨‍💻 Author
 Santhosh Thouda
 Portfolio : https://www.netlify.app
 GitHub: @santhosh-thouda
 
-📜 License
+##📜 License
 This project is licensed under the MIT License – feel free to use, modify, and distribute.
