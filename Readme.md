@@ -40,6 +40,8 @@ ShamirSecretSharing/
   "3": { "base": "10", "value": "12" },
   "6": { "base": "4",  "value": "213" }
 }
+```
+
 n: Total number of shares distributed.
 
 k: Minimum number of shares required to reconstruct the secret.
@@ -52,25 +54,20 @@ value: Value of the share in that base.
 
 ✅ How to Run
 Compile:
-
-bash
-Copy
-Edit
+```bash
 javac -cp .;json-20230227.jar Main.java
 Run:
-
-bash
-Copy
-Edit
+```
+```bash
 java -cp .;json-20230227.jar Main
 ⚠️ Ensure json-20230227.jar is in the same directory.
-
+```
 🧪 Sample Output
-css
-Copy
-Edit
+```css
 Reading shares from input.json...
 Reconstructed Secret: 7
+```
+
 📚 Concepts Used
 Shamir's Secret Sharing (Lagrange Interpolation over Finite Fields)
 
