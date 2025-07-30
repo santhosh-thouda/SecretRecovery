@@ -81,7 +81,7 @@ Reconstructed Secret: 7
 
 Santhosh Thouda
 
-Portfolio : [netlify.app](https://santhoshcv.netlify.app/)
+Portfolio : [My Portfolio](https://santhoshcv.netlify.app/)
 
 GitHub: @santhosh-thouda
 
